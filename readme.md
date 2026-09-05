@@ -6,6 +6,5 @@ Melalui project ini, saya ingin memahami:
 * Cara melakukan commit dan push ke repository remote
 * Penggunaan branch untuk pengembangan fitur
 * Proses merge dan Pull Request
-* Cara menangani merge conflict sederhana
 
-Repository ini berisi catatan dan dokumentasi pembelajaran Git, mulai dari proses inisialisasi repository hingga branching, merging, dan Pull Request.
+Repository ini berisi catatan dan dokumentasi pembelajaran Git.
